@@ -1,6 +1,6 @@
 import logging
 import random
-from Genericgeneration import Generation
+from .Genericgeneration import Generation
 
 class Classify(Generation):
     """ Classification class for classifying and categorizing number guess.

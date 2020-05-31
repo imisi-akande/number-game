@@ -9,7 +9,7 @@ class Classify(Generation):
 		n(integer) - number of attempts
 	"""
     def __init__(self, n):
-        Generation.__init__(self, n)
+        super().__init__(n)
 
     def guess_number(self):
         """Function to read in number entered by user in n attempts.

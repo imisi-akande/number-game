@@ -9,7 +9,7 @@ class Prime(Generation):
 		n(integer) - number of attempts
 	"""
     def __init__(self, n):
-        Generation.__init__(self, n)
+        super().__init__(n)
 
     def guess_prime_number(self):
         """Function to read in number entered by user in n attempts.
@@ -26,7 +26,7 @@ class Prime(Generation):
 		"""
         attempts = 0
         while attempts < self.n:
-            # Enter a number between 0 to 10,000
+            # Enter a number
             item = int(input("Write a number:"))
             if item > 1:
                 # check for factors

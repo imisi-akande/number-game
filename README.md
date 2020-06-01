@@ -29,13 +29,13 @@ selected number of attempts.
     - You can look into the screenshots or commands below to follow through the
       process of guessing random numbers and prime numbers in three attempts.
 
-    - ![Random numbers](https://github.com/imisi-akande/number-game/blob/styles/add-files/images/guess_numbers.png)
+    - ![Random numbers](https://github.com/imisi-akande/number-game/blob/develop/images/guess_numbers.png)
         - ```python```
         - ```from nummer_games import Classify, Prime```
         - ```Classify(3).guess_number()```
 
 
-    - ![Prime numbers](https://github.com/imisi-akande/number-game/blob/styles/add-files/images/guess_prime_numbers.png)
+    - ![Prime numbers](https://github.com/imisi-akande/number-game/blob/develop/images/guess_prime_numbers.png)
         - ```python```
         - ```from nummer_games import Classify, Prime```
         - ```Prime(3).guess_prime_number()```

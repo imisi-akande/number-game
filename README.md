@@ -25,4 +25,12 @@ selected number of attempts.
 - Note:
     - n represents the number of attempts
 
+- Illustration
+    - You can look into the screenshots below to follow through the process of
+      guessing random numbers and prime numbers in three attempts.
+
+    - ![Random numbers](https://github.com/imisi-akande/number-game/blob/styles%2Fadd-extra-files/images/guess_number.png)
+
+    - ![Prime numbers](https://github.com/imisi-akande/number-game/blob/styles/add-extra-files/images/guess_prime_numbers.png)
+
 Have fun. Please Feel free to contact me if you encounter any issue.

@@ -7,22 +7,22 @@ selected number of attempts.
 ## Instructions
 - Enter your terminal
 
-- Install the module
-```pip install nummer```
+- Install the module:
+    - ```pip install nummer```
 
-- Enter your python interactive shell
-```python```
+- Enter your python interactive shell:
+    - ```python```
 
-- Import required functions
-```from nummer import Classify, Prime```
+- Import required functions:
+    - ```from nummer import Classify, Prime```
 
-- Iterate through attempts by guessing random numbers
-```Classify(n).guess_number()```
+- Iterate through attempts by guessing random numbers:
+    - ```Classify(n).guess_number()```
 
-- Iterate through attempts by guessing prime numbers
-```Prime(n).guess_prime_number()```
+- Iterate through attempts by guessing prime numbers:
+    - ```Prime(n).guess_prime_number()```
 
-- Note
-n represents the number of attempts
+- Note:
+    - n represents the number of attempts
 
 Have fun. Please Feel free to contact me if you encounter any issue.

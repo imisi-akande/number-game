@@ -3,10 +3,10 @@ from setuptools import setup
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
-setup(name='nummer',
+setup(name='nummer_games',
       version='0.1',
       description='Guess random numbers and prime numbers',
-      packages=['nummer'],
+      packages=['nummer_games'],
       long_description=long_description,
       long_description_content_type="text/markdown",
       author='Akande Imisioluwa',

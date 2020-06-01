@@ -9,3 +9,5 @@ number-env/
 *.pyc
 
 *.egg-info
+
+dist/

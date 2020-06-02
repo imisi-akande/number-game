@@ -1,6 +1,5 @@
 import random
 import logging
-logging.basicConfig(format='%(message)s', level=logging.INFO)
 
 class Generation:
     """Generic generation class for random numbers"""

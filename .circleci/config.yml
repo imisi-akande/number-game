@@ -1,7 +1,8 @@
-version: 2.1
+version: 2
 
-orbs:
-  python: circleci/python@0.2.1
+jobs:
+  build:
+    working_directory: ~/number-game
 
 machine:
   python:

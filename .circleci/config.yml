@@ -3,10 +3,9 @@ version: 2.1
 jobs:
   build:
     working_directory: ~/number-game
-
-machine:
-  python:
-    version: 3.5.2
+    machine:
+      python:
+        version: 3.5.2
 
 dependencies:
   override:

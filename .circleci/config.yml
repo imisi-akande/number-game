@@ -14,6 +14,7 @@ jobs:
           name: Install Dependencies
       - run:
           command: |
+            sudo pip install coverage coveralls
             coverage run --source=./nummer_games -m unittest test.py
             coverage report -m
             coveralls

@@ -1,3 +1,5 @@
+[![number-game](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/imisi-akande/number-game/8/workflows/b6dd4256-c126-47d8-b38c-8780aa17204a/jobs/11/steps)    [![Coverage Status](https://coveralls.io/repos/github/imisi-akande/number-game/badge.svg?branch=develop)](https://coveralls.io/github/imisi-akande/number-game?branch=develop)
+
 # The Number Game
 
 This Python module allows you to guess random numbers within your selected
